@@ -10,3 +10,7 @@ Such data can be used to inform transportation policies, including the allocatio
 For drivers, the analysis of ride-sharing data can provide valuable insights into the demand for their services, optimal pick-up and drop-off locations, and pricing strategies. This information can help drivers maximize their earnings and improve their overall experience on the platform.
 
 The target audience for this data analysis includes policymakers, urban planners, transportation officials, and business owners in Chicago and beyond. These stakeholders have a vested interest in understanding the dynamics of ride-sharing in the city, and how it affects urban mobility and economic growth. Therefore, the findings of this analysis could provide critical insights into improving transportation systems and fostering economic development in Chicago and other urban centers.
+
+## Acknowledgment
+
+This content has been created as part of the Duke 590 Data Science Class. Although the data used in the project is publicly available, given the size I have chosen not to upload the file to the repository. The data can be found City of Chicago's website (free to download).
